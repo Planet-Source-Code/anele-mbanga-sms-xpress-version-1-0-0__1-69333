@@ -1,0 +1,16 @@
+[History]
+B0=SmsXPress/GSM/PhoneBook_Import
+B1=SmsXPress/GSM/PhoneBook_Export
+B2=SmsXPress/GSM/SMS_Send
+B3=SmsXPress/GSM/SMS_ReadMessages
+B4=SmsXPress/GSM/SMS_DeleteEntry
+B5=SmsXPress/GSM/SMS_ListView
+B6=SmsXPress/GSM/SMS_ReadMessageEntry
+B7=SmsXPress/GSM/InternationalMobileSubscriberIdentity
+B8=SmsXPress/GSM/SubscriberNumber
+B9=SmsXPress/GSM/SMS_CentreNumber
+B10=SmsXPress/GSM/SMS_MemoryStorage
+B11=SmsXPress/GSM/SMS_MessageFormat
+B12=SmsXPress/GSM/PhoneBook_AddEntry
+B13=SmsXPress/GSM/PhoneBook_AvailableIndex
+B14=SmsXPress/GSM/PhoneBook_ListView
